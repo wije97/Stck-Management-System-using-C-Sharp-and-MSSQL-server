@@ -1,0 +1,44 @@
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojAssemblyReference.cache
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Form1.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Form2.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.cache
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddSP.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ManagerPanel.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.RequestItem.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewOrders.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSP.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewStock.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddCustomer.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SalesPersonPanel.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewStockSP.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddOrderSP.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddStock.resources
+C:\Users\Isuru\Desktop\New Pro\Abans\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewOrderSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojAssemblyReference.cache
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddCustomer.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddOrderSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.AddStock.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Form1.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ManagerPanel.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.RequestItem.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.RequestItem_SP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SalesPersonPanel.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewOrders.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewOrderSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewStock.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewStockSP.resources
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.cache
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Projects\Assignment.lk\NSBM\Showroom Stock System\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
